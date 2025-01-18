@@ -1,4 +1,4 @@
-# termux-ngrok
+# Developer Rs Captain Ngrok
 Run official ngrok in termux 
 
 # Install
