@@ -7,7 +7,7 @@ pkg update -y
 pkg install git
 git clone https://github.com/RsCaptain924812/Rs_Ngrok
 
-cd termux-ngrok
+cd Rs_Ngrok
 bash install.sh
 ```
 
